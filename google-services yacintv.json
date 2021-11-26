@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26392899540",
+    "project_id": "yacine-tv-1",
+    "storage_bucket": "yacine-tv-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26392899540:android:4ef063d74815d8774a3041",
+        "android_client_info": {
+          "package_name": "com.yacine_tv_apk.yassine_Off_livematch_bestguide2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26392899540-asjkt0mreopp14ceqteledsnpte8qamg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXjlOPF9srxU0W9xLBko2JAdWRS7ebnmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26392899540-asjkt0mreopp14ceqteledsnpte8qamg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
