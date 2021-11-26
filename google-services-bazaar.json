@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640074810338",
+    "project_id": "bazaar-9205d",
+    "storage_bucket": "bazaar-9205d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640074810338:android:3ae336f1333b142c8bafbb",
+        "android_client_info": {
+          "package_name": "com.bazaar_app.bestguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640074810338-27fl8f03c3nc164vqd1bfmqdllgep6sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK6Tovh6551Aw9wxS5PAmM3OndZki_zCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640074810338-27fl8f03c3nc164vqd1bfmqdllgep6sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
