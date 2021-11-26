@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636622446213",
+    "project_id": "combat-master-16155",
+    "storage_bucket": "combat-master-16155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636622446213:android:2ec25a37aa167b2d05d3ec",
+        "android_client_info": {
+          "package_name": "com.combat_master.bestguide2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636622446213-tji5bokibubrr7c8f5svcph33p183jam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrhr2dohV3yPa1NO-v-0PqkWLk6H3F5Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636622446213-tji5bokibubrr7c8f5svcph33p183jam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
