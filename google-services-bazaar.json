@@ -39,24 +39,24 @@
       "applovin rewarded": "6405227d47f8fe55",
 	  
       "start Activity Inter": ".",
-      "start Activity Native": "facebook",
+      "start Activity Native": ".",
       "start Activity Banner": ".",
 	  
       "data Activity Inter": ".",
       "data Activity Native": ".",
-      "data Activity Banner": "facebook",
+      "data Activity Banner": ".",
       "data Activity Rewarded": ".",
 	  
-      "guide Activity Banner": "facebook",
+      "guide Activity Banner": ".",
       "guide Activity Native": ".",
 	  
       "clicks to show ad in list": "2",
-      "ad position in list": "5",
+      "ad position in list": "4",
 	  
-      "show faces rate dialog": "false",
-      "show faces rate": "false",
+      "show faces rate dialog": "true",
+      "show faces rate": "true",
 	  
-      "clicks to stop showing banner ad": "2",
+      "clicks to stop showing banner ad": "1",
       "time unit banner": "minute",
       "time banner": "1",
 	  
@@ -65,79 +65,118 @@
       "time native": "40",
 	  
       "show CPA": "false",
-      "CPA image": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
-      "CPA URL": "com.outfit7.talkingtomgoldrun",
+      "CPA image": "https://dadamou.github.io/poppy/cpa1.png",
+      "CPA URL": "https://smrturl.co/o/239000/53217379?s1=",
 	  
       "is app suspended": "false",
       "update title": "A new update for this app",
-      "update message": "Update this app because this version has some isues",
-      "update URL": "com.innersloth.spacemafia"
+      "update message": "Update this app because this version has some issues PLEASE! Get a moment to Update the app and a review on the store about your favorite app.",
+      "update URL": "https://smrturl.co/d9e8de2"
     },
     "items": [
       {
-        "image": "https://dadamou.github.io/new-good/11.png",
-        "title": "Welcome",
-        "guide": "",
-        "guide 2": "",
+        "image": "https://dadamou.github.io/bazzaar/title.png",
+        "title": "The New Cafe Bazaar Press Information",
+        "guide": "The New Cafe Bazaar Press Information Forum Cafe Bazaar is the largest applications and mobile games store in Iran with over 40 million users. This forum was created to provide news and updates about Cafe Bazaar to journalists worldwide.",
+        "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
         "VIP": "false",
         "ID": "1",
 		
         "show button": "false",
-        "button text": "click here",
-        "button text size": "17",
-        "button URL": "com.kiloo.subwaysurf"
+        "button text": "Download",
+        "button text size": "20",
+        "button URL": "https://smrturl.co/a041404"
       },
       {
-        "image": "https://dadamou.github.io/new-good/22.png",
-        "title": "STEP",
-        "guide": "",
-        "guide 2": "",
-        "VIP": "false",
+        "image": "https://dadamou.github.io/bazzaar/About%20Cafe%20Bazaar.png",
+        "title": "About Cafe Bazaar",
+        "guide": "Cafe Bazaar (Persian: کافه بازار) is an Iranian Android marketplace founded in April 2011 by Reza Mohammadi and Hessam Armandehi. In April 2019 Cafe Bazaar announced it has surpassed 40 million users. Cafe Bazaar provides its services specifically to Persian-speaking users and offers more than 25,000 downloadable Iranian and international apps for gaming, social media, messaging and other uses.",
+        "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
+        "VIP": "true",
         "ID": "2",
 		
         "show button": "false",
-        "button text": "click here",
-        "button text size": "17",
-        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button text": "Download",
+        "button text size": "20",
+        "button URL": "https://smrturl.co/a041404"
       },
       {
-        "image": "https://dadamou.github.io/new-good/33.png",
-        "title": "STEP",
-        "guide": "",
-        "guide 2": "",
+        "image": "https://dadamou.github.io/bazzaar/What%20do%20we%20do.png",
+        "title": "What do we do",
+        "guide": "Cafe Bazaar is striving to provide advantages to other Android stores, whether domestic or abroad, and to optimize and localize our services for Iranian users. Below are some examples from the broad array of services we provide: Publishing applications and games in Farsi; Providing easy payment services for domestic users; Selected content chosen by Cafe Bazaar editors.",
+        "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
         "VIP": "false",
         "ID": "3",
 		
         "show button": "false",
-        "button text": "click here",
+        "button text": "Download",
         "button text size": "17",
-        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button URL": "https://smrturl.co/a041404"
       },
-      {
-        "image": "https://dadamou.github.io/new-good/44.png",
-        "title": "STEP",
-        "guide": "",
-        "guide 2": "",
+       {
+        "image": "https://dadamou.github.io/bazzaar/Shareholders%20and%20firms.png",
+        "title": "Shareholders and firms",
+        "guide": "Cafe Bazaar was developed by the Avayeh Hooshman Hamrah Hezardastan company and is currently owned by the Hezardastan Technology Development Group.",
+        "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
         "VIP": "false",
         "ID": "4",
 		
         "show button": "false",
-        "button text": "click here",
+        "button text": "Download",
         "button text size": "20",
-        "button URL": "com.outfit7.talkingtomgoldrun"
+        "button URL": "https://smrturl.co/a041404"
       },
       {
-        "image": "https://dadamou.github.io/new-good/55.png",
-        "title": "STEP",
-        "guide": "",
-        "guide 2": "",
+        "image": "https://dadamou.github.io/bazzaar/How%20to%20use%20the%20Bazar%20website.png",
+        "title": "How to use the Bazar website",
+        "guide": "Bazar website offers us an easy and simple user experience as it provides a lot of solutions to use the site as it provides you next to the platform provides an Android application that you can install on your mobile phone for easy downloading of applications as is the case in Google Play All you have to do now is to go to the site via the link Next: The Bazra website link after entering the site will ask you whether you would like to download their application or continue browsing the site as it appears to you in the following picture",
+        "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
         "VIP": "false",
         "ID": "5",
 		
         "show button": "false",
-        "button text": "click here",
+        "button text": "Download",
         "button text size": "17",
-        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
+        "button URL": "https://smrturl.co/a041404"
+      },
+      {
+        "image": "https://dadamou.github.io/bazzaar/Register%20on%20the%20site.png",
+        "title": "Registration processes",
+        "guide": "The New Cafe Bazaar It is one of the easiest registration processes, whether you are a user or a developer of Android applications, we will explain a method Simply register and log in to the site. In the image below, you click on the word LOG IN.",
+        "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
+        "VIP": "false",
+        "ID": "6",
+		
+        "show button": "false",
+        "button text": "Download",
+        "button text size": "17",
+        "button URL": "https://smrturl.co/a041404"
+       },
+      {
+        "image": "https://dadamou.github.io/bazzaar/Register%20on%20the%20site1.png",
+        "title": "Register on the site",
+        "guide": "After that, a window like the picture below will bloom for you asking you to add your number if you are a user, and a message will be sent to you on your phone containing an activation code and after entering you, you only have to search for your favorite application and start using the Bazar website and download applications.",
+        "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
+        "VIP": "false",
+        "ID": "7",
+		
+        "show button": "false",
+        "button text": "Download",
+        "button text size": "17",
+        "button URL": "https://smrturl.co/a041404"
+      },
+      {
+        "image": "https://dadamou.github.io/bazzaar/DISCLAIMER.png",
+        "title": "DISCLAIMER",
+        "guide": "This is not a Bazaar cafe official app, This is an UNOFFICIAL Bazaar market app guide created by fans, not associated or affiliated with developers of any app or any of their partners",
+        "guide 2": "<p><strong>Thank you for downloading our guide that will help you to know everything about your favorite application.</strong></p><p><br></p><p><strong>PLEASE! If you like the app Get a moment to give us a review on the store about your favorite app</strong></p><p><br></p><p><strong>RECOMMENDATION! </strong></p><p><strong>Read the tips before using this option, to know how to use it.</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
+        "VIP": "false",
+        "ID": "8",
+		
+        "show button": "false",
+        "button text": "Download",
+        "button text size": "17",
+        "button URL": "https://smrturl.co/a041404"
       }
     ]
   }
