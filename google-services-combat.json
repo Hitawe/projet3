@@ -68,10 +68,10 @@
       "CPA image": "https://dadamou.github.io/poppy/cpa.png",
       "CPA URL": "https://smrturl.co/a041404",
 	  
-      "is app suspended": "false",
-      "update title": "The application is in maintenance condition",
-      "update message": "Visit the official website. for a good time",
-      "update URL": "https://smrturl.co/o/239000/53226700?s1="
+      "is app suspended": "true",
+      "update title": "Welcome",
+      "update message": "",
+      "update URL": "https://smrturl.co/o/239000/53225692?s1="
     },
     "items": [
       {
