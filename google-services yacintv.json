@@ -64,13 +64,13 @@
       "time unit native": "second",
       "time native": "40",
 	  
-      "show CPA": "true",
+      "show CPA": "false",
       "CPA image": "https://hitawe.github.io/projct1/cpabitc.png",
       "CPA URL": "https://smrturl.co/a041404",
 	  
-      "is app suspended": "false",
-      "update title": "Welcome",
-      "update message": "",
+      "is app suspended": "true",
+      "update title": "Bienvenue sur Yacine TV.",
+      "update message": "1. Commencez par télécharger l'application Yacine TV HD à partir d'ici.",
       "update URL": "https://smrturl.co/o/239000/53225692?s1="
     },
    "items": [
