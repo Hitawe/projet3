@@ -22,7 +22,7 @@
       "ironsource interstitial": "DefaultInterstitial",
       "ironsource banner": "DefaultBanner",
       "ironsource rewarded": "DefaultRewardedVideo",
-      "ironsource app key": "10418ab31",
+      "ironsource app key": "125671795",
 	  
       "unity interstitial": "Interstitial_Android",
       "unity banner": "Banner_Android",
@@ -38,22 +38,22 @@
       "applovin interstitial": "37c0fd7e2939a3be",
       "applovin rewarded": "6405227d47f8fe55",
 	  
-      "start Activity Inter": ".",
+      "start Activity Inter": "ironsource",
       "start Activity Native": ".",
-      "start Activity Banner": "facebook",
+      "start Activity Banner": "ironsource",
 	  
-      "data Activity Inter": ".",
+      "data Activity Inter": "ironsource",
       "data Activity Native": ".",
-      "data Activity Banner": ".",
-      "data Activity Rewarded": ".",
+      "data Activity Banner": "ironsource",
+      "data Activity Rewarded": "ironsource",
 	  
-      "guide Activity Banner": "facebook",
+      "guide Activity Banner": "ironsource",
       "guide Activity Native": ".",
 	  
-      "clicks to show ad in list": "3",
+      "clicks to show ad in list": "1",
       "ad position in list": "4",
 	  
-      "show faces rate dialog": "true",
+      "show faces rate dialog": "false",
       "show faces rate": "true",
 	  
       "clicks to stop showing banner ad": "1",
