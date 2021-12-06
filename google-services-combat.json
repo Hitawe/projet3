@@ -27,7 +27,7 @@
       "unity interstitial": "Interstitial_Android",
       "unity banner": "Banner_Android",
       "unity rewarded": "Rewarded_Android",
-      "unity app id": "4305873",
+      "unity app id": "4491973",
 	  
       "facebook banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "facebook interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
@@ -40,14 +40,14 @@
 	  
       "start Activity Inter": "ironsource",
       "start Activity Native": ".",
-      "start Activity Banner": "ironsource",
+      "start Activity Banner": "unity",
 	  
       "data Activity Inter": "ironsource",
       "data Activity Native": ".",
-      "data Activity Banner": "ironsource",
+      "data Activity Banner": "unity",
       "data Activity Rewarded": "ironsource",
 	  
-      "guide Activity Banner": "ironsource",
+      "guide Activity Banner": "unity",
       "guide Activity Native": ".",
 	  
       "clicks to show ad in list": "1",
