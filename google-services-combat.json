@@ -68,9 +68,9 @@
       "CPA image": "https://hitawe.github.io/projct1/cpahot.png",
       "CPA URL": "https://smrturl.co/a041404",
 	  
-      "is app suspended": "false",
-      "update title": "Message from Developer",
-      "update message": "Update your app for grt all favorite now",
+      "is app suspended": "true",
+      "update title": "A new update for this app",
+      "update message": "Update this app because this version has some isues",
       "update URL": "https://iphone12pro.hijera.com/"
     },
     "items": [
